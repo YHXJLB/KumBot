@@ -1,7 +1,7 @@
 # Kumiao Robot 已停止服务
 本页面仅用于存档
 ## 下载离线版
-https://github.com/YHXJLB/KumBot/releases/tag/2.3.3（唯一可用版本）
+https://github.com/YHXJLB/KumBot/releases/tag/2.3.3 （唯一可用版本）
 
 ### Kumiao Robot
 
